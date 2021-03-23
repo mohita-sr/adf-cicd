@@ -1,0 +1,9 @@
+{
+	"name": "newDF0322",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f470b40-8415-4542-a0fe-a0a1a32f5350",
+		"tenantId": "ef8e9f2f-a401-4783-99a0-956806b16b94"
+	}
+}
